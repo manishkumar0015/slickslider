@@ -1,0 +1,17 @@
+.wrap {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slick__slider {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.box {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: aqua;
+}
